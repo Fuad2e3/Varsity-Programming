@@ -76,55 +76,6 @@ iddfs(graph, start='A', target='F', max_depth=3)
 
 
 
-# ----------------    bfs     --------------------
-
-from collections import deque
-
-def bfs (grid, start, goal):
-  N = len(grid)
-  moves = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-
-  q = deque([(start[0],start[1], [start])])
-
-  grid[start[0]][start[1]] = 0
-
-  while q:
-    x, y, path = q.popleft()
-
-    if (x, y) == goal:
-      return len(path)-1, path
-
-    for dx, dy in moves:
-      nx, ny = x+dx, y+dy
-      if 0 <= nx < N and 0 <= ny < N and grid[nx][ny] == 1:
-        grid[nx][ny] = 0
-        q.append((nx, ny, path + [(nx, ny)]))
-
-  return -1, []
-
-grid = [
-    [0, 0, 1, 0, 1],
-    [0, 1, 1, 1, 1],
-    [0, 1, 0, 0, 1],
-    [1, 1, 0, 1, 1],
-    [1, 0, 0, 0, 1]
-]
-
-start = (0, 2)
-goal = (4, 4)
-
-steps, path = bfs(grid, start, goal)
-
-if steps != -1:
-    print("Goal found in", steps, "moves")
-    print("Path:")
-    for p in path:
-        print(p)
-else:
-    print("Goal cannot be reached")
-
-
-
 # ----------------   N Queen Board     --------------------
 
 # just check 1 row
@@ -259,3 +210,4 @@ start = (0, 0)
 goal = (3, 3)
 
 a_star(start, goal, grid)
+

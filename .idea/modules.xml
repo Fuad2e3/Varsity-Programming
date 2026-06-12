@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithem/BFS/BFS.iml" filepath="$PROJECT_DIR$/Algorithem/BFS/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Computer Network lab/Computer Network lab.iml" filepath="$PROJECT_DIR$/Computer Network lab/Computer Network lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithem/DFS/DFS.iml" filepath="$PROJECT_DIR$/Algorithem/DFS/DFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Varsity-Programming.iml" filepath="$PROJECT_DIR$/.idea/Varsity-Programming.iml" />
+    </modules>
+  </component>
+</project>

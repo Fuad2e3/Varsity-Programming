@@ -1,4 +1,4 @@
-<h1 align="center">Varsity Programming Ecosystem</h1>
+<h1 align="center">Varsity Programming</h1>
 
 
 <p align="center">

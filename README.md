@@ -1,3 +1,6 @@
+<h1 align="center">Varsity Programming</h1>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/PLATFORM-ANDROID-00FF00?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/LANGUAGE-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Language">
@@ -6,7 +9,6 @@
   <img src="https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge" alt="License">
 </p>
 
-<h1 align="center">Varsity Programming Ecosystem</h1>
 
 <p align="center">
   <b>A comprehensive collection of university course codes, assignments, and practice projects.</b><br>

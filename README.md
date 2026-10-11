@@ -1,57 +1,68 @@
-<h1 align="center">Varsity Programming</h1>
+<div align="center">
 
+# 🎓 Varsity Programming
+### **Centralized Academic Computer Science & Engineering Lab Repository**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PLATFORM-ANDROID-00FF00?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
-  <img src="https://img.shields.io/badge/LANGUAGE-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/badge/BACKEND-FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Backend">
-  <img src="https://img.shields.io/badge/AI-GEMINI-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="AI">
-  <img src="https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge" alt="License">
-</p>
+[![Course](https://img.shields.io/badge/Academic-CSE_Curriculum-blue?style=for-the-badge)](https://green.edu.bd)
+[![Languages](https://img.shields.io/badge/Languages-Java_%7C_Python_%7C_C%2B%2B_%7C_C-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://green.edu.bd)
+[![Tools](https://img.shields.io/badge/Tools-Cisco_Packet_Tracer_%7C_Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Institution](https://img.shields.io/badge/University-Green_University_of_Bangladesh-34A853?style=for-the-badge)](https://green.edu.bd)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
+**A comprehensive repository of university coursework, laboratory experiments, problem-solving code, and simulations.**
 
-<p align="center">
-  <b>A comprehensive collection of university course codes, assignments, and practice projects.</b><br>
-  <i>Empowering students with structured learning resources and AI-powered insights.</i>
-</p>
+---
+
+[About The Project](#-about-the-project) • [Key Features](#-key-features) • [Directory Structure](#-directory-structure) • [Tech Stack](#-tech-stack)
+
+</div>
 
 ---
 
 ## 📖 About the Project
+This repository serves as a centralized academic hub containing all laboratory tasks, problem sets, term assignments, and simulation projects completed throughout the Computer Science and Engineering curriculum at **Green University of Bangladesh**. Spanning Algorithms, Artificial Intelligence, Machine Learning, Computer Networks, and Low-Level Systems, it is an organized reference archive.
 
-This repository serves as a centralized hub for all programming tasks and lab reports completed during my university journey. It includes various domains such as Algorithms, Artificial Intelligence, Computer Networking, Data Communication, and Machine Learning. The project is designed to be easily navigable and a valuable reference for future learning.
+---
 
 ## 🚀 Key Features
 
-- **Structured Learning**: Categorized by subjects for easy access.
-- **Multilingual**: Includes codes in Java, Python, C, and C++.
-- **Comprehensive Labs**: Detailed lab reports and simulation files (e.g., Packet Tracer `.pkt`).
-- **AI Integration**: Experimental codes involving AI and Machine Learning.
+- 📚 **Systematic Categorization:** Structured by department course codes for rapid review.
+- 🌐 **Polyglot Implementations:** Code solutions across Java, Python, C++, and ANSI C.
+- 🔬 **Network & System Simulations:** Cisco Packet Tracer `.pkt` topology files and multi-threaded TCP/IP socket servers.
+- 🤖 **AI & Data Science Notebooks:** Reproducible Jupyter notebooks covering dataset engineering and supervised ML.
+
+---
 
 ## 📂 Directory Structure
 
-The repository is organized into the following main directories:
+| Directory | Subject Area | Description |
+| :--- | :--- | :--- |
+| `Algorithms/` | Design & Analysis of Algorithms | Core graph traversal (BFS/DFS), Greedy algorithms & Dynamic Programming in Java |
+| `AI-Lab/` | Artificial Intelligence | Heuristic search, topological sorting, and NumPy/Pandas logic scripts in Python |
+| `Computer-Networks/` | Computer Networking | Cisco Packet Tracer topologies and multi-threaded Java Client-Server socket programming |
+| `Data-Communication/` | Data Communication | Memory placement simulations (Best Fit, First Fit, Worst Fit) and FIFO in C/C++ |
+| `Data-Structures/` | Data Structures | Linked lists, stacks, queues, binary search trees, and heap sorting in C++ |
+| `Machine-Learning/` | Machine Learning | Feature extraction, TF-IDF NLP pipelines, and scikit-learn classification models |
 
-| Directory | Description |
-| :--- | :--- |
-| `Algorithms/` | Implementation of core algorithms like BFS and DFS in Java. |
-| `AI-Lab/` | Python scripts for AI tasks including graph traversals, basic logic, and library usage (NumPy, Pandas, Matplotlib). |
-| `Computer-Networks/` | Cisco Packet Tracer simulations and Java socket programming (Multi-threaded Client-Server). |
-| `Data-Communication/` | C/C++ implementations of memory management algorithms (Best fit, First fit, Worst fit) and FIFO. |
-| `Data-Structures/` | C++ implementations of fundamental data structures (Linked Lists, Stacks, Queues, Trees) and sorting/searching algorithms. |
-| `Machine-Learning/` | Jupyter Notebooks for dataset preprocessing and model training/comparison. |
+---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, Python, C, C++, Jupyter Notebook.
-- **Tools**: Cisco Packet Tracer, VS Code, IntelliJ IDEA.
-- **Libraries**: NumPy, Pandas, Matplotlib, Scikit-learn.
+| Layer | Technology |
+| :--- | :--- |
+| **Programming Languages** | Java 17+, Python 3.x, C++17, ANSI C |
+| **Simulation & Dev Tools**| Cisco Packet Tracer, Jupyter Lab, VS Code, IntelliJ IDEA |
+| **Scientific Computing** | NumPy, Pandas, Matplotlib, Scikit-learn, SciPy |
+
+---
 
 ## 📄 License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="center">
-  Developed with ❤️ by <b>Fuad</b><br>
-  <i>Computer Science | Green University of Bangladesh</i>
-</p>
+<div align="center">
+
+**Developed with ❤️ by Fuad**  
+*Developed by Softece*  
+*Varsity Programming | Green University of Bangladesh*
+
+</div>
